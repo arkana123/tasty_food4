@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "855217301329",
+    "project_id": "makanan-dfe85",
+    "storage_bucket": "makanan-dfe85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855217301329:android:2ab091544bb4e1f8941570",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855217301329-ip320q2j1ubd4dktkeadj5q7ijii4t5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSdrumJHgvFckOI0RlgRIz6739FM3vOk9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855217301329-ip320q2j1ubd4d8tkeadj5qvijii4t5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855217301329:android:968b0894129e45c8941570",
+        "android_client_info": {
+          "package_name": "com.example.tasty_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855217301329-ip320q2j1ubd4dktkeadj5qvijii4t5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSdrumJHgvFckOI0RlgRIzZ9FM3vOk9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855217301329-ip320q2j1ubd4dktkeadj5qvijii4t5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
